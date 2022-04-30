@@ -24,30 +24,6 @@
     "numDizFuel": "0,2",
     "Vudob": "0,1"
     
-  },
-  {
-    
-    "id": 3,
-    "Region": "Пiдкамiнь",
-    "Obl": "04.05.1992",
-    "Oil": "86",
-    "date": "7",
-    "numFuel": "1,16",
-    "numDizFuel": "0,0",
-    "Vudob": "0,1"
-    
-  },
-  {
-    
-    "id": 4, 
-    "Region": "Насташино",
-    "Obl": "04.05.1992",
-    "Oil": "44",
-    "date": "7",
-    "numFuel": "1,16",
-    "numDizFuel": "0,2",
-    "Vudob": "0,9"
-    
   }
     
   ]
